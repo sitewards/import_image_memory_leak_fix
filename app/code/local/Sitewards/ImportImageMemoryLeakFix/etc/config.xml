@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Sitewards_ImportImageMemoryLeakFix>
+            <version>0.1.0</version>
+        </Sitewards_ImportImageMemoryLeakFix>
+    </modules>
+    <global>
+        <models>
+            <sitewards_importimagememoryleakfix>
+                <class>Sitewards_ImportImageMemoryLeakFix_Model</class>
+            </sitewards_importimagememoryleakfix>
+        </models>
+        <helpers>
+            <catalog>
+                <rewrite>
+                    <image>Sitewards_ImportImageMemoryLeakFix_Helper_Catalog_Helper_Image</image>
+                </rewrite>
+            </catalog>
+        </helpers>
+    </global>
+</config>

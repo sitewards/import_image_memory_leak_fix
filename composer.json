@@ -1,0 +1,8 @@
+{
+    "name": "sitewards/import_image_memory_leak_fix",
+    "description": "Fix a memory leak issue with the product image import process.",
+    "type": "magento-module",
+    "require": {
+        "php": ">=5.5"
+    }
+}

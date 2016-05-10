@@ -1,0 +1,2 @@
+app/code/local/Sitewards/ImportImageMemoryLeakFix      app/code/local/Sitewards/ImportImageMemoryLeakFix
+app/etc/modules/Sitewards_ImportImageMemoryLeakFix.xml app/etc/modules/Sitewards_ImportImageMemoryLeakFix

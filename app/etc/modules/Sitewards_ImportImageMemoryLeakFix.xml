@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Sitewards_ImportImageMemoryLeakFix>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Catalog/>
+            </depends>
+        </Sitewards_ImportImageMemoryLeakFix>
+    </modules>
+</config>
